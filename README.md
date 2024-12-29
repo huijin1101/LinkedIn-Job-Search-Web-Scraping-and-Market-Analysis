@@ -14,7 +14,7 @@ LinkedIn, as a premier job search platform, offers the necessary data to explore
 - Right Panel: Displays detailed job descriptions upon clicking a title.
 
 ## Methodology
-### Data Gathering
+### 1. Data Gathering
 Challenges:
 - Dynamic Content Loading:
   - LinkedIn jobs load dynamically, requiring scrolling and real-time content retrieval.
@@ -26,7 +26,7 @@ Challenges:
 Solutions:
 To address these challenges, the following workflow was implemented:
 ![Data Gathering](images/metho1.png)
-### Data Cleaning and Processing
+### 2. Data Cleaning and Processing
 Challenges:
 - Duplicate Records: Multiple entries for the same job listing.
 - Inconsistent Missing Values: Missing values appear as empty strings or lists.
