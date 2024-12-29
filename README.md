@@ -35,7 +35,7 @@ Challenges:
 - Verbose "About the Job" Section: Excessive text needing standardization.
 Solutions:
 A robust processing pipeline was designed to address these challenges:
-![Data Cleaning and Processing](images/metho1.png)
+![Data Cleaning and Processing](images/metho2.png)
 ## Key Highlights
 - Developed a comprehensive web scraping solution to collect job-related data from LinkedIn, extracting key information such as job titles, company names, locations, number of applicants, work modalities, and detailed descriptions in "About the Company" and "About the Job" sections.
 - Addressed and overcame challenges posed in data gathering, ensuring high-quality data collection.
@@ -67,7 +67,7 @@ A robust processing pipeline was designed to address these challenges:
 - Intermediate-to-senior-level roles dominate the market for Data Analysts across most domains.
 - Entry-level roles for Data Scientists are more prominent in Human Resources, software, and research sectors.
 ### Salary Amalysis
-![Salary Analysis](images/rs3.png)
+![Salary Analysis](images/rs4.png)
 - Salaries for data roles range widely, from $50,000 to $400,000 annually.
 - For Intermediate-to-senior-level Data Analyst roles: Salaries range from $80,000 to $270,000 annually.
 - For Entry-level Data Scientist roles: Salaries range from $60,000 to $250,000 annually.
