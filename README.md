@@ -46,8 +46,10 @@ A robust processing pipeline was designed to address these challenges:
   - Overcame challenges like dynamic content loading, data inconsistencies, and anti-scraping measures.
 - Data Preparation:
   - Designed a comprehensive processing pipeline to process raw data into a structured format, enabling seamless analysis:
-    - ![raw data](images/raw.png)
-    - ![processed data](images/processed.png)    
+    - **raw data**
+      ![raw data](images/raw.png) 
+    - **processed data**
+      ![processed data](images/processed.png)    
 - Exploratory Data Analysis (EDA):
   - Performed in-depth analysis to uncover key trends in the job market.
   - Engineered interactive visualizations to present actionable insights.
