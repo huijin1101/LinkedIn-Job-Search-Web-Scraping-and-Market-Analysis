@@ -23,6 +23,7 @@ Challenges:
   - Variations in how job listings are formatted by users.
 - Anti-Scraping Mechanisms:
   - CAPTCHAs, IP blocking, or rate-limiting mechanisms.
+
 Solutions:
 To address these challenges, the following workflow was implemented:
 ![Data Gathering](images/metho1.png)
