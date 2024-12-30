@@ -37,10 +37,6 @@ Solutions:
 A robust processing pipeline was designed to address these challenges:
 ![Data Cleaning and Processing](images/metho2.png)
 ## Key Highlights
-- Developed a comprehensive web scraping solution to collect job-related data from LinkedIn, extracting key information such as job titles, company names, locations, number of applicants, work modalities, and detailed descriptions in "About the Company" and "About the Job" sections.
-- Addressed and overcame challenges posed in data gathering, ensuring high-quality data collection.
-- Conducted comprehensive exploratory data analysis in cleaning and preprocessing the gathered raw dataset, faciliating the following streamlined analysis.
-- Uncovered valuable insights into the job market related to data field, and visualized the findings by interactive dashboards to deliver actionable insights into the job market.
 - Advanced Web Scraping:
   - Developed a robust pipeline to collect job data from LinkedIn, including job titles, company names, locations, number of applicants, work modalities, and detailed descriptions.
   - Overcame challenges like dynamic content loading, data inconsistencies, and anti-scraping measures.
@@ -52,7 +48,6 @@ A robust processing pipeline was designed to address these challenges:
       ![processed data](images/processed.png)    
 - Exploratory Data Analysis (EDA):
   - Performed in-depth analysis to uncover key trends in the job market.
-  - Engineered interactive visualizations to present actionable insights.
 - Market Insights:
   - Identified key patterns in job distribution, remote opportunities, industry demands, experience requirements, and salary ranges.
 ## Results
