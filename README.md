@@ -34,6 +34,7 @@ Challenges:
 - Non-Uniform Locations: Varying formats for the location field.
 - Applicant Numbers and Industry Domains: Highly varied formats and values.
 - Verbose "About the Job" Section: Excessive text needing standardization.
+
 Solutions:
 A robust processing pipeline was designed to address these challenges:
 ![Data Cleaning and Processing](images/metho2.png)
